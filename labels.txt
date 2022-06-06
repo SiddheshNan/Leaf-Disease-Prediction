@@ -1,0 +1,3 @@
+0 Cotten-Bacterial
+1 cotton-curlVirus
+2 Orange melanose
